@@ -9,6 +9,6 @@ time: kevadsemester-2021
 1. [x] - SortedUniquePersonList
 2. [x] - Liidese harjutused
 ## Nädal 3
-1. [ ] - Dungeons and dudes
+1. [x] - Dungeons and dudes
 2. [ ] - Echo server
 3. [ ] - HelloGit
