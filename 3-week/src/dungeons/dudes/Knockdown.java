@@ -3,7 +3,8 @@ package dungeons.dudes;
 public class Knockdown implements Effect{
     @Override
     public void onHit(Dude effectTarget) {
-
+        effectTarget.actionPoints = 0;
+        System.out.println("Attacked with knockdown, enemy action points reduced to 0!");
     }
 
     @Override
@@ -18,11 +19,11 @@ public class Knockdown implements Effect{
 
     @Override
     public int requiredActionPoints() {
-        return 0;
+        return 8;
     }
 
     @Override
     public boolean isExpired() {
-        return false;
+        return true;
     }
 }
