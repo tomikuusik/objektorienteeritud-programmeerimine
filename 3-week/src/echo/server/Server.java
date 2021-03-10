@@ -46,6 +46,7 @@ public class Server implements Runnable{
 
                 }
                 System.out.println("CLOSING CONNECTION");
+                socket.close();
             }
         }
         catch (IOException e) {
