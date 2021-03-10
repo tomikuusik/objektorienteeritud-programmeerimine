@@ -12,3 +12,7 @@ time: kevadsemester-2021
 1. [x] - Dungeons and dudes
 2. [x] - Echo server
 3. [x] - HelloGit
+## Nädal 4 - ca 8h
+1. [x] - Echo server v2
+2. [x] - Paralleelarvutused
+## Nädal 5
