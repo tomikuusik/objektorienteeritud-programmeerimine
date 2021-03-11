@@ -16,3 +16,6 @@ time: kevadsemester-2021
 1. [x] - Echo server v2
 2. [x] - Paralleelarvutused
 ## Nädal 5
+1. [ ] - Telekanalid
+2. [ ] - Valuutakalkulaator
+3. [x] - rühmatöö funktsionaalsuse nimekiri
