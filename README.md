@@ -15,7 +15,7 @@ time: kevadsemester-2021
 ## Nädal 4 - ca 8h
 1. [x] - Echo server v2
 2. [x] - Paralleelarvutused
-## Nädal 5
-1. [ ] - Telekanalid
-2. [ ] - Valuutakalkulaator
+## Nädal 5 - ca 7h
+1. [x] - Telekanalid
+2. [x] - Valuutakalkulaator
 3. [x] - rühmatöö funktsionaalsuse nimekiri
