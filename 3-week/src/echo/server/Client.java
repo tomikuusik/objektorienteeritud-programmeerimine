@@ -41,8 +41,8 @@ public class Client {
                             byte[] bytes = input.readNBytes(lenBytes);
                             String inputBytes = new String(bytes, StandardCharsets.UTF_8);
                             System.out.println(inputBytes);
-                            try (FileWriter myWriter = new FileWriter("3-week/resources/outfile.txt")) {
-                                myWriter.write(inputBytes);
+                            try (FileOutputStream outputStream = new FileOutputStream("3-week/resources/outfile.txt")) {
+                                outputStream.write(bytes);
                             } catch (IOException e) {
                                 System.out.println("Cant write to file");
                                 throw new UncheckedIOException(e);
